@@ -32,7 +32,7 @@ An Excelbased analysis of shopping behavior and sales performance across U.S. re
 - **Executive** **Summary:** a KPI-card layout of regional map, category, payment methods, seasonality, age/gender, subscription status.
 - **Insight** **Summary:** A denser analysis view pairing the same KPIs with written findings, category, payment, season, gender and breakdown tables.
 
-**Data:**Source  (data/shopping_behavior_raw.csv) 
+**Data:**Source shopping_behavior_raw.csv  
   
 
 
