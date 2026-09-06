@@ -31,8 +31,8 @@ An Excelbased analysis of shopping behavior and sales performance across U.S. re
 **What's** **Included:** This Project Presents two complementary Views of the same Dataset.
 - **Executive** **Summary:** a KPI-card layout of regional map, category, payment methods, seasonality, age/gender, subscription status.
 - **Insight** **Summary:** A denser analysis view pairing the same KPIs with written findings, category, payment, season, gender and breakdown tables.
-
-**Data:** Data/shopping_behavior_raw.csv 
+  
+**Data:** [shopping_behavior_raw.csv](shopping_behavior_raw.csv) 
   
 
 
