@@ -1,5 +1,8 @@
 
+**DASHBOARD SCREENSHOT**  
 <img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/7f72b0d0-d2e3-4304-a5b9-a8db934929ee" />
+
+**EXCEL FILE LINK:**
 
 **OVERVIEW**:
 An Excelbased analysis of shopping behavior and sales performance across U.S. regions in 2024, combining an at-a-glance executive dashboard with a deeper insights summary. The project segments revenue by category, region, payment method, season, customer demographics, and subscription status to identify what's driving and what isn't driving; order value and category performance.
@@ -32,7 +35,17 @@ An Excelbased analysis of shopping behavior and sales performance across U.S. re
 - **Executive** **Summary:** a KPI-card layout of regional map, category, payment methods, seasonality, age/gender, subscription status.
 - **Insight** **Summary:** A denser analysis view pairing the same KPIs with written findings, category, payment, season, gender and breakdown tables.
   
-**Data:** [shopping_behavior_raw.csv](shopping_behavior_raw.csv) 
-  
+**Data:** 
+Source data - [shopping_behavior_raw.csv](shopping_behavior_raw.csv) - contains customer-level transaction records, including: Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Discount Applied, Promo Code Used, Previous Purchases, Payment Method, and Frequency of Purchases.
+**Originally sourced from:** https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+
+**Methodology**
+- Cleaned and validated the raw dataset (duplicates, missing values, category/location standardization)
+- Built summary tables segmenting revenue by category, payment method, season, age band, gender, and subscription status
+- Calculated headline KPIs — total revenue, transactions, AOV, average rating, and discount split
+- Designed two dashboard views: a visual KPI overview and a narrative insights summary; using (pivot tables and formulas)
+
+**Tools Used:**  MICROSOFT EXCEL 
+
 
 
