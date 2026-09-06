@@ -28,13 +28,11 @@ An Excelbased analysis of shopping behavior and sales performance across U.S. re
 - **Subscription:** Non-subscribers generate nearly 3x the revenue of subscribers (73% vs. 27%),suggesting the business is still acquisition-heavy; Converting more repeat non-subscribers into subscribers looks like a meaningful level for recurring revenue growth.  
 - **Gender:** Meles customers drive the large majority of revenue(68% vs 32% for female costumers). To Highlight that most of revenue is concentrated in the category males between age 18 until 67.
 
-  **What's** **Included**
-  This Project Presents two complementary Views of the same Dataset:
-  1- **Executive** **Summary:** a KPI-card layout of regional map, category, payment methods, seasonality, age/gender, subscription status.
-  2- **Insight** **Summary:** A denser analysis view pairing the same KPIs with written findings, category, payment, season, gender and breakdown tables.
+**What's** **Included:** This Project Presents two complementary Views of the same Dataset.
+- **Executive** **Summary:** a KPI-card layout of regional map, category, payment methods, seasonality, age/gender, subscription status.
+- **Insight** **Summary:** A denser analysis view pairing the same KPIs with written findings, category, payment, season, gender and breakdown tables.
 
-**DATA**
-Source data (.csv) contains customer-level transaction records, including: Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Discount Applied, Promo Code Used, Previous Purchases, Payment Method, and Frequency of Purchases.
+**Data:**Source data/
   
 
 
